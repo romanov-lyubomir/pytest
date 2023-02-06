@@ -4,3 +4,4 @@ print(3)
 
 print("Merge conflict solved")
 print("Test commit")
+print("Test commit 2")
